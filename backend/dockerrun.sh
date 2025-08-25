@@ -1,0 +1,1 @@
+docker container run --name backendapp -p 8080:80 backend:latest 
